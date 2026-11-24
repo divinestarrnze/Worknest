@@ -1,0 +1,15 @@
+# Root workspace
+**/.env
+!**/.env.example
+
+# Dependencies
+**/node_modules/
+**/dist/
+
+# Logs
+**/*.log
+
+# OS/editor noise
+**/.DS_Store
+**/.vscode/
+**/.idea/
